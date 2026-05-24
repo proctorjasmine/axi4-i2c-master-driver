@@ -1,4 +1,3 @@
-# axi4-i2c-master-driver
 # AXI4-Lite I2C Master with Linux Driver
 
 This project implements a custom I2C master IP core with an AXI4-Lite interface, designed for use on a Xilinx Zynq-based system. The core supports register-based control of I2C transactions, transmit and receive FIFOs, repeated-start operation, ACK error detection, and status reporting through memory-mapped registers.
